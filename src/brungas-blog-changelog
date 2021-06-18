@@ -1,0 +1,11 @@
+    
+    Planned-Backend
+1. When Creating User Account, Return username and password In Register API
+2. delete and edit Private Posts Has Issues
+
+
+
+    
+    Planned-Frontend
+1. Dismis Modal form modal after the data has been sent successfull
+2. Validate Entered Email And Checks password Strongability
